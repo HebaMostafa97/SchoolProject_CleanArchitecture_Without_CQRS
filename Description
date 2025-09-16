@@ -1,0 +1,16 @@
+---------------------------------------------------------------------> School Management Project Using Clean Architecture 
+-> Mediator and CQRS Design Pattern 
+-> Fluent Validation 
+-> Filters 
+-> Localization (Arabic && English)
+-> Logging Errors With Serilog 
+-> Database Operations Like 'StoredProcedure && Views'
+-> Reset Password System with Encryption and Decryption with Sending Email 
+-> Identity(User,Role)
+-> Claims Manuibulation(Authorities)
+-> Fluent API 
+-> JWT Token and Refresh Tokens to activate Expired Token 
+-> Generic Repository & Unit Of Work 
+-> Auto Mapper 
+-> Dependency Injection 
+-> Solid Principles 
